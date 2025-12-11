@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Game dev<br>💻 Full-stack<br>🏗️ I'm currently working on several projects
+🎮 Game dev<br>💻 Full-stack<br>🏗️ Currently working on several projects
 
 
 ## 🌐 Socials:
